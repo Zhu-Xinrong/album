@@ -1,6 +1,6 @@
 # 关于 About
 这个库用于存储我在游玩过程中所拍下的照片和视频。  
-This library is used to store photos and videos I took during my gameplay.
+This library is used to store photos and videos I took during my journey.
 
 ## 目前的相册 Albums
 | 日期 Date | 名称 Name | 备注 Note |
